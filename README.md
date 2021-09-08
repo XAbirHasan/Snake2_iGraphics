@@ -1,5 +1,5 @@
 # Snake2_iGraphics
- This project was made in 2017. After learning iGraphics. Then i try to build something in graphical pattern that i use to make before.
+This project was made in 2017. After learning iGraphics. Then I try to build something in a graphical pattern that I used to make before.
 
 
 ## Project description
